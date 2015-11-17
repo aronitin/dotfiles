@@ -1,0 +1,13 @@
+alias ..='cd ..'
+alias stopjenkins='sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist'
+alias gco='git checkout'
+alias gpu='git pull'
+alias gci='git commit'
+alias gpush='git push'
+alias gpudev='git pull origin develop'
+alias gcodev='git checkout develop'
+alias gst='git status'
+alias gffstart='git flow feature start'
+alias gffpub='git flow feature publish'
+alias gfffin='git flow feature finish'
+alias nginx="sudo nginx"

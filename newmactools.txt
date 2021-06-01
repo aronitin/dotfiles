@@ -1,0 +1,8 @@
+homebrew
+cask
+iterm2
+jetbrains mono space font (using brew cask)
+starship
+lsd
+bat
+
